@@ -1,7 +1,7 @@
 /*
    author:雋槑
    version：0.0.0.1
-   descript: create a dynamica tree menu
+   descript: create a dynamic tree menu
    data struct:array of json object. pid(parent item id) 
    html emement container: <ul id="menu"></ul>
    */
